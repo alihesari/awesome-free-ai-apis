@@ -8,6 +8,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 
 - [LLM and Chat Completion APIs](#llm-and-chat-completion-apis)
 - [Embeddings and Reranking](#embeddings-and-reranking)
+- [Code Models and Coding Assistants](#code-models-and-coding-assistants)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -37,6 +38,16 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Jina AI](https://jina.ai/embeddings/) - Embeddings, reranker, classifier and segmenter APIs under one key. Free: every new API key includes 10M tokens shared across Jina APIs.
 - [Pinecone Inference](https://www.pinecone.io/pricing/) - Hosted embedding and reranking models next to the Pinecone vector database. Free: Starter plan includes 5M embedding tokens and 500 rerank requests per month.
 - [Voyage AI](https://docs.voyageai.com/docs/pricing) - Text, multilingual, domain and code embedding models plus rerankers. Free: first 200M tokens per account on voyage-4, voyage-4-large, voyage-4-lite, voyage-context-4 and voyage-code-3.
+
+## Code Models and Coding Assistants
+
+- [Amazon Q Developer](https://aws.amazon.com/q/developer/pricing/) - AWS coding assistant for the IDE and CLI with agentic tasks and Java upgrades. Free: 50 agentic requests and 1,000 lines of code transformation per month.
+- [Cursor](https://cursor.com/pricing) - AI code editor with agent mode and the Composer model. Free: Hobby plan with limited agent requests, no credit card required.
+- [GitHub Copilot](https://github.com/features/copilot/plans) - Code completion and chat in the editor and on GitHub. Free: 2,000 completions and 50 chat requests per month.
+- [Inception](https://docs.inceptionlabs.ai/get-started) - Mercury diffusion language models for code and chat through an OpenAI-compatible API. Free: 100M tokens for each new account, no payment required.
+- [Kiro](https://kiro.dev/pricing/) - Agentic IDE and CLI from AWS. Free: 50 credits with access to Claude Sonnet 4.5 and selected open-weight models such as Qwen3 Coder Next, rate limited.
+- [Mistral Leanstral](https://mistral.ai/pricing/api/) - Code agent model for the Lean 4 proof language. Free: endpoint priced at $0 for a limited period.
+- [Voyage AI Code Embeddings](https://docs.voyageai.com/docs/pricing) - voyage-code-3 embeddings for code search and retrieval. Free: first 200M tokens per account.
 
 ## Contributing
 
