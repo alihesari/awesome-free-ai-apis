@@ -1,0 +1,21 @@
+name: Outdated entry
+description: A free tier changed, moved, or no longer exists
+title: "Outdated: "
+labels: [outdated]
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Entry name
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Official page that shows the change
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What changed
