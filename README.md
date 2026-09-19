@@ -10,6 +10,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Embeddings and Reranking](#embeddings-and-reranking)
 - [Code Models and Coding Assistants](#code-models-and-coding-assistants)
 - [Search and Scraping APIs for Agents](#search-and-scraping-apis-for-agents)
+- [Image Generation](#image-generation)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -63,6 +64,16 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [SerpApi](https://serpapi.com/pricing) - Structured JSON results from Google and other search engines. Free: 250 searches per month.
 - [Serper](https://serper.dev/) - Google Search results API covering web, images, news, maps and shopping. Free: 2,500 queries, no credit card.
 - [Tavily](https://docs.tavily.com/documentation/api-credits) - Search and extract API built for AI agents and RAG. Free: 1,000 API credits per month, no credit card.
+
+## Image Generation
+
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) - Serverless inference with FLUX and Leonardo image models on Cloudflare's network. Free: 10,000 Neurons per day on both Free and Paid plans.
+- [deAPI](https://deapi.ai/pricing) - Pay-as-you-go API for text-to-image and image-to-image with models such as FLUX.2 Klein. Free: $5 in credits on signup, no credit card required.
+- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/pricing) - One API routing text-to-image requests to partner providers for models hosted on the Hub. Free: $0.10 in monthly credits for free accounts, $2.00 for PRO.
+- [Photoroom API](https://www.photoroom.com/api/pricing) - Background removal and image editing API for product photos. Free: 1,000 watermarked sandbox calls per month on the Image Editing API and 10 production calls on the Remove Background API.
+- [remove.bg](https://www.remove.bg/api) - Background removal API. Free: 50 API calls per month.
+- [Runware](https://runware.ai/pricing) - Single API for image, video and audio generation models. Free: $2 in credits for new users.
+- [Stability AI](https://platform.stability.ai/pricing) - API for Stable Diffusion image generation, editing and upscaling. Free: 25 credits for new accounts (1 credit = $0.01).
 
 ## Contributing
 
