@@ -19,6 +19,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Translation](#translation)
 - [Vision](#vision)
 - [Moderation](#moderation)
+- [Vector Databases](#vector-databases)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -159,6 +160,19 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Google Cloud Natural Language Text Moderation](https://cloud.google.com/natural-language/pricing) - Classifies text into harmful and sensitive categories. Free: first 50,000 units (100 characters each) per month.
 - [OpenAI Moderation](https://developers.openai.com/api/docs/guides/moderation) - Classifies text and images for harmful content with `omni-moderation-latest`. Free: the endpoint is free to use.
 - [Sightengine](https://sightengine.com/pricing) - Image, video, and text moderation plus AI-generated image detection. Free: 2,000 operations per month, max 500 per day.
+
+## Vector Databases
+
+- [Chroma Cloud](https://www.trychroma.com/pricing) - Serverless vector, full-text, and metadata search. Free: $0 Starter plan with $5 in free credits.
+- [MongoDB Atlas Vector Search](https://www.mongodb.com/pricing) - Vector search on MongoDB Atlas clusters. Free: 512 MB storage on the free cluster, which supports vector search indexes.
+- [Neon](https://neon.com/pricing) - Serverless Postgres with the pgvector extension. Free: 100 projects, 100 CU-hours per project per month, 0.5 GB storage per project.
+- [Pinecone](https://www.pinecone.io/pricing/) - Managed serverless vector database. Free: 2 GB storage, 2M write units and 1M read units per month, up to 5 indexes.
+- [Qdrant Cloud](https://qdrant.tech/pricing/) - Managed Qdrant vector search engine. Free: one cluster with 0.5 vCPU, 1 GB RAM, and 4 GB disk.
+- [Supabase](https://supabase.com/pricing) - Hosted Postgres with pgvector. Free: 500 MB database, 2 active projects, paused after 1 week of inactivity.
+- [Turso](https://turso.tech/pricing) - Hosted SQLite (libSQL) with native vector similarity search. Free: 100 databases, 5 GB storage, 500M rows read and 10M rows written per month.
+- [Upstash Vector](https://upstash.com/pricing/vector) - Serverless vector database with a REST API. Free: 10,000 queries or updates per day, 200M vectors x dimensions, 1 GB data.
+- [Weaviate Cloud](https://weaviate.io/pricing) - Managed Weaviate vector database. Free: 100,000 objects, 1 GB memory, 10 GB disk, 1 collection.
+- [Zilliz Cloud](https://zilliz.com/pricing) - Managed Milvus vector database. Free: 5 GB storage, 2.5M vCUs per month, up to 5 collections.
 
 ## Contributing
 
