@@ -15,6 +15,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Speech to Text](#speech-to-text)
 - [Text to Speech](#text-to-speech)
 - [Music and Audio](#music-and-audio)
+- [OCR and Document Parsing](#ocr-and-document-parsing)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -121,6 +122,17 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [deAPI](https://deapi.ai/pricing) - Pay-as-you-go text-to-music API with ACE-Step models. Free: $5 in credits on signup, no credit card required.
 - [ElevenLabs](https://elevenlabs.io/pricing) - Sound effects generation API. Free: 10,000 credits per month shared across products, non-commercial use; the Music API requires a paid plan.
 - [Runware](https://runware.ai/audio-generation-api) - Single API for speech, music and sound effects, including MiniMax Music and ACE-Step. Free: $2 in credits for new users.
+
+## OCR and Document Parsing
+
+- [Azure AI Document Intelligence](https://azure.microsoft.com/en-us/pricing/details/ai-document-intelligence/) - OCR, layout, and prebuilt extraction models for forms, invoices, and receipts. Free: 500 pages per month on the F0 tier.
+- [Google Document AI](https://cloud.google.com/document-ai/pricing) - OCR and document processors on Google Cloud. Free: first 1,000 pages per month on the Enterprise Document OCR processor.
+- [LandingAI Agentic Document Extraction](https://landing.ai/pricing) - Document parsing and structured field extraction API. Free: 1,000 credits to start.
+- [LlamaParse](https://www.llamaindex.ai/pricing) - Parses PDFs and office documents into LLM-ready markdown and JSON. Free: 10,000 credits per month.
+- [Nanonets](https://nanonets.com/pricing) - Document OCR and data extraction API. Free: $50 in starting credits, no card required.
+- [OCR.space](https://ocr.space/ocrapi) - REST OCR API for images and PDFs. Free: 25,000 requests per month, 1 MB file size, 3 PDF pages per request.
+- [Reducto](https://reducto.ai/pricing) - Document parsing, splitting, and extraction API. Free: 15,000 credits on the Standard plan.
+- [Unstructured](https://unstructured.io/pricing) - Converts documents into structured elements for RAG pipelines. Free: 10,000 pages when the account starts, no card required.
 
 ## Contributing
 
