@@ -12,6 +12,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Search and Scraping APIs for Agents](#search-and-scraping-apis-for-agents)
 - [Image Generation](#image-generation)
 - [Video Generation](#video-generation)
+- [Speech to Text](#speech-to-text)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -83,6 +84,20 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Magic Hour](https://magichour.ai/api/text-to-video) - API for text-to-video, image-to-video and other video generation endpoints. Free: credits on signup that work across all API endpoints, no credit card required.
 - [Runware](https://runware.ai/pricing) - Single API for image, video and audio generation models. Free: $2 in credits for new users.
 - [Tavus](https://www.tavus.io/pricing) - API for real-time conversational video with AI avatars. Free: 25 minutes of conversational video and 25 stock AI humans on the Basic plan.
+
+## Speech to Text
+
+- [AssemblyAI](https://www.assemblyai.com/pricing) - Pre-recorded and streaming transcription API. Free: $50 in credits on signup, no credit card required.
+- [Azure AI Speech](https://azure.microsoft.com/en-us/pricing/details/speech/) - Microsoft speech recognition service with standard and custom models. Free: 5 audio hours per month on the F0 tier.
+- [Cartesia](https://cartesia.ai/pricing) - Speech-to-text and text-to-speech API. Free: 20,000 credits per month.
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) - Serverless Whisper and Whisper Large v3 Turbo transcription on Cloudflare's network. Free: 10,000 Neurons per day.
+- [deAPI](https://deapi.ai/pricing) - Pay-as-you-go audio and video transcription with Whisper Large V3. Free: $5 in credits on signup, no credit card required.
+- [Deepgram](https://deepgram.com/pricing) - Batch and streaming speech recognition API. Free: $200 in credits, no credit card required.
+- [ElevenLabs](https://elevenlabs.io/pricing) - Speech-to-text API alongside voice generation. Free: 10,000 credits per month shared across products, non-commercial use.
+- [Gladia](https://www.gladia.io/pricing) - Pre-recorded and real-time transcription API. Free: one-time 50 EUR in credits on signup.
+- [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/pricing) - Google speech recognition API. Free: 60 minutes per month, billing account required.
+- [Groq](https://console.groq.com/docs/rate-limits) - Hosted Whisper Large v3 and Whisper Large v3 Turbo on Groq hardware. Free: 20 requests per minute, 2,000 requests per day and 28,800 audio seconds per day per model.
+- [Speechmatics](https://www.speechmatics.com/pricing) - Batch and real-time transcription in 55+ languages. Free: $100 in credits, no credit card required.
 
 ## Contributing
 
