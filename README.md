@@ -13,6 +13,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Image Generation](#image-generation)
 - [Video Generation](#video-generation)
 - [Speech to Text](#speech-to-text)
+- [Text to Speech](#text-to-speech)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -98,6 +99,21 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Google Cloud Speech-to-Text](https://cloud.google.com/speech-to-text/pricing) - Google speech recognition API. Free: 60 minutes per month, billing account required.
 - [Groq](https://console.groq.com/docs/rate-limits) - Hosted Whisper Large v3 and Whisper Large v3 Turbo on Groq hardware. Free: 20 requests per minute, 2,000 requests per day and 28,800 audio seconds per day per model.
 - [Speechmatics](https://www.speechmatics.com/pricing) - Batch and real-time transcription in 55+ languages. Free: $100 in credits, no credit card required.
+
+## Text to Speech
+
+- [Amazon Polly](https://aws.amazon.com/polly/pricing/) - AWS text-to-speech service with standard, neural, long-form and generative voices. Free: new AWS accounts get up to $200 in Free Tier credits usable on Polly.
+- [Azure AI Speech](https://azure.microsoft.com/en-us/pricing/details/speech/) - Microsoft neural text-to-speech service. Free: 0.5 million characters per month on the F0 tier.
+- [Cartesia](https://cartesia.ai/pricing) - Low-latency text-to-speech API. Free: 20,000 credits per month, no voice cloning.
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) - Serverless MeloTTS and Deepgram Aura voices on Cloudflare's network. Free: 10,000 Neurons per day.
+- [deAPI](https://deapi.ai/pricing) - Pay-as-you-go text-to-speech with open models such as Kokoro, Chatterbox and Qwen3 TTS. Free: $5 in credits on signup, no credit card required.
+- [Deepgram](https://deepgram.com/pricing) - Aura text-to-speech API. Free: $200 in credits shared with speech-to-text, no credit card required.
+- [ElevenLabs](https://elevenlabs.io/pricing) - Text-to-speech and voice design API. Free: 10,000 credits per month, non-commercial use.
+- [Gemini API](https://ai.google.dev/gemini-api/docs/pricing) - Google Gemini text-to-speech models. Free: Gemini 2.5 Flash Preview TTS and Gemini 3.1 Flash TTS Preview are free of charge on the free tier.
+- [Google Cloud Text-to-Speech](https://cloud.google.com/text-to-speech/pricing) - Google text-to-speech API with Standard, WaveNet, Neural2 and Chirp 3 HD voices. Free: 4 million characters per month for Standard and WaveNet, 1 million for Chirp 3 HD, Neural2 and Studio, billing account required.
+- [Groq](https://console.groq.com/docs/rate-limits) - Hosted Orpheus text-to-speech models in English and Saudi Arabic. Free: 10 requests per minute and 100 requests per day per model.
+- [Hume](https://www.hume.ai/pricing) - Octave text-to-speech API with voice design. Free: 10,000 characters per month.
+- [Speechmatics](https://www.speechmatics.com/pricing) - English text-to-speech alongside transcription. Free: $100 in credits, no credit card required.
 
 ## Contributing
 
