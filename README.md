@@ -24,6 +24,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [LLMOps: Observability, Evals and Prompt Management](#llmops-observability-evals-and-prompt-management)
 - [Agent Infrastructure](#agent-infrastructure)
 - [Startup Credit Programs](#startup-credit-programs)
+- [Related Lists](#related-lists)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -218,6 +219,11 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Microsoft for Startups](https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview) - Azure credits and support for software startups. Offer: up to $150K in Startup credits unlocked over time; privately held, pre-Series C, under $350,000 in lifetime free Azure credits.
 - [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) - Free startup program with training, preferred pricing and partner offers. Offer: free cloud credits from NVIDIA and partners; incorporated, under 10 years old, at least one developer.
 - [OpenAI for Startups](https://openai.com/startups/) - OpenAI program for startups building on its API. Offer: API credits and rate limit upgrades for eligible startups, mainly through partner venture firms.
+
+## Related Lists
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - Free public APIs across every category.
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - Free tiers for developer and infrastructure services.
 
 ## Contributing
 
