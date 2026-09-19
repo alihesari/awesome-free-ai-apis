@@ -20,6 +20,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Vision](#vision)
 - [Moderation](#moderation)
 - [Vector Databases](#vector-databases)
+- [GPU Compute and Notebooks](#gpu-compute-and-notebooks)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -173,6 +174,15 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Upstash Vector](https://upstash.com/pricing/vector) - Serverless vector database with a REST API. Free: 10,000 queries or updates per day, 200M vectors x dimensions, 1 GB data.
 - [Weaviate Cloud](https://weaviate.io/pricing) - Managed Weaviate vector database. Free: 100,000 objects, 1 GB memory, 10 GB disk, 1 collection.
 - [Zilliz Cloud](https://zilliz.com/pricing) - Managed Milvus vector database. Free: 5 GB storage, 2.5M vCUs per month, up to 5 collections.
+
+## GPU Compute and Notebooks
+
+- [Google Colab](https://colab.research.google.com/) - Hosted Jupyter notebooks with GPU and TPU runtimes. Free: GPU and TPU access subject to availability and not guaranteed, notebooks run for at most 12 hours.
+- [Hugging Face Spaces ZeroGPU](https://huggingface.co/docs/hub/spaces-zerogpu) - Shared GPUs allocated on demand to Gradio Spaces. Free: 5 minutes of daily GPU quota for free accounts, and free accounts in good standing can host up to 2 ZeroGPU Spaces.
+- [Kaggle Notebooks](https://www.kaggle.com/code) - Hosted notebooks with GPU and TPU accelerators. Free: 30 hours per week of GPU (sometimes more, depending on demand) and 20 hours per week of TPU.
+- [Lightning AI](https://lightning.ai/pricing) - Cloud development Studios with on-demand GPUs. Free: monthly free credits usable on GPU compute, plus one free CPU Studio.
+- [Modal](https://modal.com/pricing) - Serverless GPU compute for Python functions, jobs and endpoints. Free: $30 per month of compute on the Starter plan, up to 10 concurrent GPUs.
+- [Paperspace Notebooks](https://docs.digitalocean.com/products/paperspace/pricing/) - Jupyter notebooks on GPU machines, now part of DigitalOcean. Free: free M4000 GPU machines for Notebooks on the free plan, with 5 GB of storage.
 
 ## Contributing
 
