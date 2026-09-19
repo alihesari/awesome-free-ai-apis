@@ -17,6 +17,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Music and Audio](#music-and-audio)
 - [OCR and Document Parsing](#ocr-and-document-parsing)
 - [Translation](#translation)
+- [Vision](#vision)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -142,6 +143,14 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Google Cloud Translation](https://cloud.google.com/translate/pricing) - Neural machine translation and language detection (Basic and Advanced). Free: first 500,000 characters per month, not applicable to the Translation LLM.
 - [LibreTranslate](https://libretranslate.com/) - Open source (AGPLv3) machine translation API that runs offline. Free: self-hosted; the hosted API requires a paid key.
 - [MyMemory](https://mymemory.translated.net/doc/usagelimits.php) - Translation memory and machine translation API. Free: 5,000 characters per day anonymous, 50,000 per day with a valid email.
+
+## Vision
+
+- [Azure AI Vision](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/computer-vision/) - Image analysis including tagging, captions, OCR, object detection, and smart crops. Free: 5,000 transactions per month at 20 per minute on the F0 tier.
+- [Google Cloud Vision](https://cloud.google.com/vision/pricing) - Label, text, face, landmark, logo, and explicit content detection. Free: first 1,000 units per month for each feature.
+- [Imagga](https://imagga.com/pricing) - Image tagging, categorization, cropping, and color extraction API. Free: 100 API requests per month.
+- [Roboflow](https://roboflow.com/pricing) - Dataset labeling, model training, and hosted inference for computer vision. Free: 15 credits per month on the Public plan, projects must be public.
+- [Ximilar](https://www.ximilar.com/pricing/) - Visual search, tagging, and custom image recognition API. Free: 1,000 API credits per month.
 
 ## Contributing
 
