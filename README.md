@@ -21,6 +21,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Moderation](#moderation)
 - [Vector Databases](#vector-databases)
 - [GPU Compute and Notebooks](#gpu-compute-and-notebooks)
+- [LLMOps: Observability, Evals and Prompt Management](#llmops-observability-evals-and-prompt-management)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -183,6 +184,18 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Lightning AI](https://lightning.ai/pricing) - Cloud development Studios with on-demand GPUs. Free: monthly free credits usable on GPU compute, plus one free CPU Studio.
 - [Modal](https://modal.com/pricing) - Serverless GPU compute for Python functions, jobs and endpoints. Free: $30 per month of compute on the Starter plan, up to 10 concurrent GPUs.
 - [Paperspace Notebooks](https://docs.digitalocean.com/products/paperspace/pricing/) - Jupyter notebooks on GPU machines, now part of DigitalOcean. Free: free M4000 GPU machines for Notebooks on the free plan, with 5 GB of storage.
+
+## LLMOps: Observability, Evals and Prompt Management
+
+- [Arize Phoenix](https://arize.com/pricing/) - Open-source tracing, evaluation and prompt iteration platform, with the hosted Arize AX. Free: Phoenix is open source; AX Free includes 25k spans per month, 1 GB ingestion and 15-day retention.
+- [Braintrust](https://www.braintrust.dev/pricing) - Evals, tracing and prompt playgrounds for LLM apps. Free: 1 GB processed data, 10k scores, 14-day retention and unlimited users.
+- [Helicone](https://www.helicone.ai/pricing) - LLM request logging and monitoring through a proxy or SDK. Free: 10,000 requests per month, 7-day retention, 1 seat.
+- [Laminar](https://laminar.sh/pricing) - Tracing and evals for AI agents. Free: 1 GB data, 7-day retention, 1 seat and 1 project.
+- [Langfuse](https://langfuse.com/pricing) - Open-source LLM tracing, evals and prompt management. Free: 50k units per month, 30 days data access, 2 users on cloud; self-hosting is free.
+- [LangSmith](https://www.langchain.com/pricing) - Tracing, evals and prompt management from LangChain. Free: up to 5k base traces per month, 1 seat.
+- [Opik](https://www.comet.com/site/pricing/) - Open-source agent tracing and evaluation by Comet. Free: 25k spans per month, 60-day retention, up to 10 team members on cloud; self-hosting is free.
+- [PromptLayer](https://www.promptlayer.com/pricing) - Prompt management, logging and evaluation. Free: 2.5k requests per month, 5 users.
+- [W&B Weave](https://wandb.ai/site/pricing/) - Tracing and evaluation for LLM apps by Weights & Biases. Free: 1 GB per month of Weave data ingestion.
 
 ## Contributing
 
