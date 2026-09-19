@@ -9,6 +9,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [LLM and Chat Completion APIs](#llm-and-chat-completion-apis)
 - [Embeddings and Reranking](#embeddings-and-reranking)
 - [Code Models and Coding Assistants](#code-models-and-coding-assistants)
+- [Search and Scraping APIs for Agents](#search-and-scraping-apis-for-agents)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -48,6 +49,20 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Kiro](https://kiro.dev/pricing/) - Agentic IDE and CLI from AWS. Free: 50 credits with access to Claude Sonnet 4.5 and selected open-weight models such as Qwen3 Coder Next, rate limited.
 - [Mistral Leanstral](https://mistral.ai/pricing/api/) - Code agent model for the Lean 4 proof language. Free: endpoint priced at $0 for a limited period.
 - [Voyage AI Code Embeddings](https://docs.voyageai.com/docs/pricing) - voyage-code-3 embeddings for code search and retrieval. Free: first 200M tokens per account.
+
+## Search and Scraping APIs for Agents
+
+- [Apify](https://apify.com/pricing) - Platform for running scrapers and crawlers (Actors) through an API. Free: $5 in platform credit per month.
+- [Brave Search API](https://brave.com/search/api/) - Web search results from Brave's independent index, plus an Answers plan. Free: $5 in credits every month.
+- [Exa](https://exa.ai/pricing) - Search API built for LLMs, with content retrieval. Free: $20 in credits for new accounts, plus $10 in credits every month.
+- [Firecrawl](https://www.firecrawl.dev/pricing) - Scrape, crawl and search the web into LLM-ready markdown or JSON. Free: 1,000 credits per month and 2 concurrent requests, no credit card.
+- [Jina Reader](https://jina.ai/reader/) - Converts any URL to LLM-friendly text through r.jina.ai. Free: 20 RPM without a key, 500 RPM with a free key, and 10M tokens for each new key.
+- [Linkup](https://www.linkup.so/pricing) - Web search, fetch and research API for AI apps. Free: 4,000 queries.
+- [Parallel](https://parallel.ai/pricing) - Web search, extract and research APIs for AI agents. Free: up to 5,000 requests per month.
+- [ScrapingBee](https://www.scrapingbee.com/pricing/) - Scraping API that handles headless browsers and proxies. Free: 1,000 API credits trial, no credit card.
+- [SerpApi](https://serpapi.com/pricing) - Structured JSON results from Google and other search engines. Free: 250 searches per month.
+- [Serper](https://serper.dev/) - Google Search results API covering web, images, news, maps and shopping. Free: 2,500 queries, no credit card.
+- [Tavily](https://docs.tavily.com/documentation/api-credits) - Search and extract API built for AI agents and RAG. Free: 1,000 API credits per month, no credit card.
 
 ## Contributing
 
