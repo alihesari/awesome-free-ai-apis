@@ -23,6 +23,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [GPU Compute and Notebooks](#gpu-compute-and-notebooks)
 - [LLMOps: Observability, Evals and Prompt Management](#llmops-observability-evals-and-prompt-management)
 - [Agent Infrastructure](#agent-infrastructure)
+- [Startup Credit Programs](#startup-credit-programs)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -207,6 +208,16 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Mem0](https://mem0.ai/pricing) - Memory layer for AI agents, with an open-source version. Free: 10,000 add requests and 1,000 retrieval requests per month.
 - [Steel](https://docs.steel.dev/overview/pricinglimits) - Browser API for AI agents. Free: one-time $30 in usage credits valid for 90 days, 10 concurrent sessions, sessions up to 15 minutes.
 - [Zep](https://www.getzep.com/pricing) - Context and memory service for agents. Free: 10,000 credits per month, 2 projects.
+
+## Startup Credit Programs
+
+- [AWS Activate](https://aws.amazon.com/startups/credits) - AWS credits for startups. Offer: up to $5,000 for self-funded startups (Founders) and up to $200,000 through an Activate Provider (Portfolio); pre-Series B, founded in the last 10 years.
+- [Claude for Startups](https://claude.com/programs/startups) - Anthropic program for startups building on Claude. Offer: API credits and higher rate limits for startups with institutional equity funding, founded within the last four years, and no prior Anthropic startup credits.
+- [Cloudflare for Startups](https://www.cloudflare.com/forstartups/) - Credits for Cloudflare's developer platform and network. Offer: $10k with no minimum funding, $100k or $350k for startups funded by an affiliated partner.
+- [Google for Startups Cloud Program](https://cloud.google.com/startup) - Google Cloud credits for early-stage startups. Offer: $200,000 in credits, or up to $350,000 for AI-first startups, for Seed to Series A companies founded within the last five years.
+- [Microsoft for Startups](https://learn.microsoft.com/en-us/startups/microsoft-for-startups/overview) - Azure credits and support for software startups. Offer: up to $150K in Startup credits unlocked over time; privately held, pre-Series C, under $350,000 in lifetime free Azure credits.
+- [NVIDIA Inception](https://www.nvidia.com/en-us/startups/) - Free startup program with training, preferred pricing and partner offers. Offer: free cloud credits from NVIDIA and partners; incorporated, under 10 years old, at least one developer.
+- [OpenAI for Startups](https://openai.com/startups/) - OpenAI program for startups building on its API. Offer: API credits and rate limit upgrades for eligible startups, mainly through partner venture firms.
 
 ## Contributing
 
