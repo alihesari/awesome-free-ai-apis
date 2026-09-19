@@ -16,6 +16,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Text to Speech](#text-to-speech)
 - [Music and Audio](#music-and-audio)
 - [OCR and Document Parsing](#ocr-and-document-parsing)
+- [Translation](#translation)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -133,6 +134,14 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [OCR.space](https://ocr.space/ocrapi) - REST OCR API for images and PDFs. Free: 25,000 requests per month, 1 MB file size, 3 PDF pages per request.
 - [Reducto](https://reducto.ai/pricing) - Document parsing, splitting, and extraction API. Free: 15,000 credits on the Standard plan.
 - [Unstructured](https://unstructured.io/pricing) - Converts documents into structured elements for RAG pipelines. Free: 10,000 pages when the account starts, no card required.
+
+## Translation
+
+- [Azure AI Translator](https://azure.microsoft.com/en-us/pricing/details/translator/) - Text translation, language detection, transliteration, and dictionary lookup. Free: 2 million characters per month on the F0 tier.
+- [DeepL API](https://www.deepl.com/en/pro-api) - Neural machine translation API for text and documents. Free: 1,000,000 characters in total on the Developer plan (one-time allowance, API Free is no longer sold).
+- [Google Cloud Translation](https://cloud.google.com/translate/pricing) - Neural machine translation and language detection (Basic and Advanced). Free: first 500,000 characters per month, not applicable to the Translation LLM.
+- [LibreTranslate](https://libretranslate.com/) - Open source (AGPLv3) machine translation API that runs offline. Free: self-hosted; the hosted API requires a paid key.
+- [MyMemory](https://mymemory.translated.net/doc/usagelimits.php) - Translation memory and machine translation API. Free: 5,000 characters per day anonymous, 50,000 per day with a valid email.
 
 ## Contributing
 
