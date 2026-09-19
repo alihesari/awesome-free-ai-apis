@@ -11,6 +11,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Code Models and Coding Assistants](#code-models-and-coding-assistants)
 - [Search and Scraping APIs for Agents](#search-and-scraping-apis-for-agents)
 - [Image Generation](#image-generation)
+- [Video Generation](#video-generation)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -74,6 +75,14 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [remove.bg](https://www.remove.bg/api) - Background removal API. Free: 50 API calls per month.
 - [Runware](https://runware.ai/pricing) - Single API for image, video and audio generation models. Free: $2 in credits for new users.
 - [Stability AI](https://platform.stability.ai/pricing) - API for Stable Diffusion image generation, editing and upscaling. Free: 25 credits for new accounts (1 credit = $0.01).
+
+## Video Generation
+
+- [deAPI](https://deapi.ai/pricing) - Pay-as-you-go API for text-to-video, image-to-video and video upscaling. Free: $5 in credits on signup, no credit card required.
+- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/tasks/text-to-video) - One API routing text-to-video requests to partner providers such as fal and Replicate. Free: $0.10 in monthly credits for free accounts, $2.00 for PRO.
+- [Magic Hour](https://magichour.ai/api/text-to-video) - API for text-to-video, image-to-video and other video generation endpoints. Free: credits on signup that work across all API endpoints, no credit card required.
+- [Runware](https://runware.ai/pricing) - Single API for image, video and audio generation models. Free: $2 in credits for new users.
+- [Tavus](https://www.tavus.io/pricing) - API for real-time conversational video with AI avatars. Free: 25 minutes of conversational video and 25 stock AI humans on the Basic plan.
 
 ## Contributing
 
