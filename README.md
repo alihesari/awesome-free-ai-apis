@@ -7,6 +7,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 ## Contents
 
 - [LLM and Chat Completion APIs](#llm-and-chat-completion-apis)
+- [Embeddings and Reranking](#embeddings-and-reranking)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -26,6 +27,16 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [SiliconFlow](https://www.siliconflow.com/pricing) - Pay-as-you-go API for open LLM, image and video models. Free: $1 in credits for new accounts.
 - [Vercel AI Gateway](https://vercel.com/docs/ai-gateway/pricing) - One endpoint for models from many providers with no token markup. Free: monthly free credit on a subset of models, rate limited, until you purchase credits.
 - [Z.ai](https://docs.z.ai/guides/overview/pricing) - GLM models through the Z.ai API. Free: GLM-4.7-Flash, GLM-4.5-Flash and GLM-4.6V-Flash are priced at $0.
+
+## Embeddings and Reranking
+
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/models/) - Hosted embedding models (BGE, EmbeddingGemma, Qwen3 Embedding) and the bge-reranker-base reranker. Free: 10,000 Neurons per day, shared with other Workers AI models.
+- [Cohere](https://docs.cohere.com/docs/rate-limits) - Embed and Rerank endpoints. Free: trial key with 2,000 embed inputs per minute, 10 rerank requests per minute and 1,000 calls per month, not for production use.
+- [Google Gemini Embedding](https://ai.google.dev/gemini-api/docs/pricing) - Multimodal embeddings for text, images, audio and video through the Gemini API. Free: free of charge on the free tier, with rate limits.
+- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/pricing) - Feature extraction and text-ranking models, including CPU inference through hf-inference. Free: $0.10 in monthly credits for free accounts, $2.00 for PRO.
+- [Jina AI](https://jina.ai/embeddings/) - Embeddings, reranker, classifier and segmenter APIs under one key. Free: every new API key includes 10M tokens shared across Jina APIs.
+- [Pinecone Inference](https://www.pinecone.io/pricing/) - Hosted embedding and reranking models next to the Pinecone vector database. Free: Starter plan includes 5M embedding tokens and 500 rerank requests per month.
+- [Voyage AI](https://docs.voyageai.com/docs/pricing) - Text, multilingual, domain and code embedding models plus rerankers. Free: first 200M tokens per account on voyage-4, voyage-4-large, voyage-4-lite, voyage-context-4 and voyage-code-3.
 
 ## Contributing
 
