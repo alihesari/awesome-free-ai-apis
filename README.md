@@ -14,6 +14,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Video Generation](#video-generation)
 - [Speech to Text](#speech-to-text)
 - [Text to Speech](#text-to-speech)
+- [Music and Audio](#music-and-audio)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -114,6 +115,12 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Groq](https://console.groq.com/docs/rate-limits) - Hosted Orpheus text-to-speech models in English and Saudi Arabic. Free: 10 requests per minute and 100 requests per day per model.
 - [Hume](https://www.hume.ai/pricing) - Octave text-to-speech API with voice design. Free: 10,000 characters per month.
 - [Speechmatics](https://www.speechmatics.com/pricing) - English text-to-speech alongside transcription. Free: $100 in credits, no credit card required.
+
+## Music and Audio
+
+- [deAPI](https://deapi.ai/pricing) - Pay-as-you-go text-to-music API with ACE-Step models. Free: $5 in credits on signup, no credit card required.
+- [ElevenLabs](https://elevenlabs.io/pricing) - Sound effects generation API. Free: 10,000 credits per month shared across products, non-commercial use; the Music API requires a paid plan.
+- [Runware](https://runware.ai/audio-generation-api) - Single API for speech, music and sound effects, including MiniMax Music and ACE-Step. Free: $2 in credits for new users.
 
 ## Contributing
 
