@@ -22,6 +22,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Vector Databases](#vector-databases)
 - [GPU Compute and Notebooks](#gpu-compute-and-notebooks)
 - [LLMOps: Observability, Evals and Prompt Management](#llmops-observability-evals-and-prompt-management)
+- [Agent Infrastructure](#agent-infrastructure)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -196,6 +197,16 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Opik](https://www.comet.com/site/pricing/) - Open-source agent tracing and evaluation by Comet. Free: 25k spans per month, 60-day retention, up to 10 team members on cloud; self-hosting is free.
 - [PromptLayer](https://www.promptlayer.com/pricing) - Prompt management, logging and evaluation. Free: 2.5k requests per month, 5 users.
 - [W&B Weave](https://wandb.ai/site/pricing/) - Tracing and evaluation for LLM apps by Weights & Biases. Free: 1 GB per month of Weave data ingestion.
+
+## Agent Infrastructure
+
+- [Browserbase](https://www.browserbase.com/pricing) - Hosted headless browsers for agents and automation. Free: 1 browser hour, 3 concurrent browsers, 15-minute sessions.
+- [Composio](https://composio.dev/pricing) - Tool integrations and OAuth management for agents. Free: 100,000 tool calls and 50,000 triggers per month, 3 team members.
+- [Daytona](https://www.daytona.io/pricing) - Sandboxes for running AI-generated code. Free: $200 in free compute, no credit card required.
+- [E2B](https://e2b.dev/pricing) - Cloud sandboxes for running AI-generated code. Free: one-time $100 in usage credits, sessions up to 1 hour, up to 20 concurrent sandboxes.
+- [Mem0](https://mem0.ai/pricing) - Memory layer for AI agents, with an open-source version. Free: 10,000 add requests and 1,000 retrieval requests per month.
+- [Steel](https://docs.steel.dev/overview/pricinglimits) - Browser API for AI agents. Free: one-time $30 in usage credits valid for 90 days, 10 concurrent sessions, sessions up to 15 minutes.
+- [Zep](https://www.getzep.com/pricing) - Context and memory service for agents. Free: 10,000 credits per month, 2 projects.
 
 ## Contributing
 
