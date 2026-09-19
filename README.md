@@ -18,6 +18,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [OCR and Document Parsing](#ocr-and-document-parsing)
 - [Translation](#translation)
 - [Vision](#vision)
+- [Moderation](#moderation)
 <!-- toc-end -->
 
 ## LLM and Chat Completion APIs
@@ -151,6 +152,13 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 - [Imagga](https://imagga.com/pricing) - Image tagging, categorization, cropping, and color extraction API. Free: 100 API requests per month.
 - [Roboflow](https://roboflow.com/pricing) - Dataset labeling, model training, and hosted inference for computer vision. Free: 15 credits per month on the Public plan, projects must be public.
 - [Ximilar](https://www.ximilar.com/pricing/) - Visual search, tagging, and custom image recognition API. Free: 1,000 API credits per month.
+
+## Moderation
+
+- [Azure AI Content Safety](https://azure.microsoft.com/en-us/pricing/details/cognitive-services/content-safety/) - Text and image harm detection, Prompt Shields, and groundedness detection. Free: 5,000 text records and 5,000 images per month on the F0 tier.
+- [Google Cloud Natural Language Text Moderation](https://cloud.google.com/natural-language/pricing) - Classifies text into harmful and sensitive categories. Free: first 50,000 units (100 characters each) per month.
+- [OpenAI Moderation](https://developers.openai.com/api/docs/guides/moderation) - Classifies text and images for harmful content with `omni-moderation-latest`. Free: the endpoint is free to use.
+- [Sightengine](https://sightengine.com/pricing) - Image, video, and text moderation plus AI-generated image detection. Free: 2,000 operations per month, max 500 per day.
 
 ## Contributing
 
