@@ -6,7 +6,26 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 
 ## Contents
 
+- [LLM and Chat Completion APIs](#llm-and-chat-completion-apis)
 <!-- toc-end -->
+
+## LLM and Chat Completion APIs
+
+- [Alibaba Cloud Model Studio](https://www.alibabacloud.com/help/en/model-studio/new-free-quota) - Qwen and other models through an OpenAI-compatible API. Free: new users get a per-model free quota (typically 1M tokens) valid for 90 days, Singapore region only.
+- [Cerebras Inference](https://inference-docs.cerebras.ai/support/rate-limits) - Open-weight models such as gpt-oss-120b served on Cerebras hardware. Free: trial tier with $5 in credits that expire after 30 days, 5 RPM and 1M tokens per day.
+- [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) - Serverless inference for open models from Workers or a REST API. Free: 10,000 Neurons per day on Free and Paid Workers plans.
+- [Cohere](https://cohere.com/pricing) - Command chat models plus embed and rerank endpoints. Free: trial API key, 20 chat requests per minute and 1,000 calls per month, not for production or commercial use.
+- [Google Gemini API](https://ai.google.dev/gemini-api/docs/pricing) - Gemini Flash and Flash-Lite models through Google AI Studio. Free: free input and output tokens on selected models with rate limits shown in AI Studio; free-tier content may be used to improve Google products.
+- [Groq](https://console.groq.com/docs/rate-limits) - Low-latency inference for open models, speech-to-text and TTS. Free: free plan with per-model limits on requests and tokens per minute and per day.
+- [Hugging Face Inference Providers](https://huggingface.co/docs/inference-providers/pricing) - One API routing to many inference providers and hundreds of models. Free: $0.10 in monthly credits for free accounts, $2.00 for PRO.
+- [Mistral AI](https://docs.mistral.ai/admin/user-management-finops/tier) - Mistral open and proprietary models through La Plateforme. Free: free mode with included monthly usage within the limits shown in the admin console.
+- [NVIDIA NIM](https://developer.nvidia.com/nim) - Hosted NIM endpoints for open models on build.nvidia.com. Free: free API access for prototyping with an NVIDIA Developer Program membership.
+- [OpenRouter](https://openrouter.ai/docs/api-reference/limits) - Unified API across many providers, including models with `:free` variants. Free: `:free` models at 20 requests per minute and 50 per day, or 1,000 per day after buying at least 10 credits.
+- [SambaNova Cloud](https://docs.sambanova.ai/docs/en/models/rate-limits) - Open models such as DeepSeek, Llama and gpt-oss on SambaNova hardware. Free: tier without a payment method, 20 requests per minute, 20 per day and 200K tokens per day on selected models.
+- [Scaleway Generative APIs](https://www.scaleway.com/en/pricing/model-as-a-service/) - OpenAI-compatible serverless API for open models hosted in Europe. Free: first 1,000,000 tokens.
+- [SiliconFlow](https://www.siliconflow.com/pricing) - Pay-as-you-go API for open LLM, image and video models. Free: $1 in credits for new accounts.
+- [Vercel AI Gateway](https://vercel.com/docs/ai-gateway/pricing) - One endpoint for models from many providers with no token markup. Free: monthly free credit on a subset of models, rate limited, until you purchase credits.
+- [Z.ai](https://docs.z.ai/guides/overview/pricing) - GLM models through the Z.ai API. Free: GLM-4.7-Flash, GLM-4.5-Flash and GLM-4.6V-Flash are priced at $0.
 
 ## Contributing
 
