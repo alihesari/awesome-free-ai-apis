@@ -30,6 +30,7 @@ Every entry links to the provider's official pricing or docs page. Free tiers ch
 ## LLM and Chat Completion APIs
 
 - [Alibaba Cloud Model Studio](https://www.alibabacloud.com/help/en/model-studio/new-free-quota) - Qwen and other models through an OpenAI-compatible API. Free: new users get a per-model free quota (typically 1M tokens) valid for 90 days, Singapore region only.
+- [Beiluo API](https://beiluoxi.xyz/help/_full.html) - Multi-model API gateway with metered usage. Free: [daily check-ins](https://beiluoxi.xyz/daily-checkin) award $0.01–$0.10 in account credits, with an extra $0.20–$0.30 for seven consecutive days.
 - [Cerebras Inference](https://inference-docs.cerebras.ai/support/rate-limits) - Open-weight models such as gpt-oss-120b served on Cerebras hardware. Free: trial tier with $5 in credits that expire after 30 days, 5 RPM and 1M tokens per day.
 - [Cloudflare Workers AI](https://developers.cloudflare.com/workers-ai/platform/pricing/) - Serverless inference for open models from Workers or a REST API. Free: 10,000 Neurons per day on Free and Paid Workers plans.
 - [Cohere](https://cohere.com/pricing) - Command chat models plus embed and rerank endpoints. Free: trial API key, 20 chat requests per minute and 1,000 calls per month, not for production or commercial use.
